@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Mutlu Kız Arkadaşlar Günü 💓').split('')
+    const titles = ('çiçeğe çiçek hediye edilmez ama bunlar senin güzelim💓').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
